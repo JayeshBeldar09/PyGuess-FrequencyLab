@@ -1,0 +1,4 @@
+Python is a popular programming language.
+Python is useful for beginners because Python has readable syntax.
+Loops help a program repeat actions, and dictionaries can count words.
+This small sample text is useful for testing the word counter.
